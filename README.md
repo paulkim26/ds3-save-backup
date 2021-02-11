@@ -6,7 +6,7 @@ This is a collection of Powershell scripts to manage backups/restores of save fi
 | Script | Description |
 | ------ | ------ |
 | `ds3_backup.ps1` | Backs up the Dark Souls 3 save file currently found on the local machine. Will create a timestamped archive of save files. |
-| `ds3_restore.ps1` | Restores the last saved Dar Souls 3 save file into the local machine. |
+| `ds3_restore.ps1` | Restores the last saved Dark Souls 3 save file into the local machine. |
 
 ## Requirements
 * Windows 10
