@@ -1,4 +1,6 @@
 # ds3-save-backup
+
+## Disclaimer
 This script is free software; you can redistribute and/or modify its contents. The author bears no responsibility for its malicious/illegal use or unintended harmful effects on your system.
 
 ## Introduction
